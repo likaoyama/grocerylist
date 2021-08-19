@@ -1,1 +1,1 @@
-# Grocery list in development
+# Grocery list under development
